@@ -10,12 +10,12 @@ Exemplo de uso:
 
 Insira o CEP desejado: 01001000
 A API irá retornar o endereço.
-  CEP: 01001-000
-  Logradouro: Praça da Sé
-  Bairro: Sé
-  Cidade: São Paulo
-  Estado: SP
+  CEP: 01001-000  
+  Logradouro: Praça da Sé  
+  Bairro: Sé  
+  Cidade: São Paulo  
+  Estado: SP  
 
-Dependências
-Requests
-pip install requests
+Dependências  
+Requests  
+pip install requests  
