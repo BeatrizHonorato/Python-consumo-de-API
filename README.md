@@ -8,7 +8,7 @@ O script se resume a uma função python que recebe um CEP brasileiro e retorna 
 
 Exemplo de uso:
 
-Insira o CEP desejado: 01001000
+Insira o CEP desejado: 01001000  
 A API irá retornar o endereço.
   CEP: 01001-000  
   Logradouro: Praça da Sé  
